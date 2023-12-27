@@ -1,6 +1,6 @@
 {
   "name": "nuxt-flags",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "Nuxt module to use Feature Flags (as Unleash) toggle feature services. Compatible with Nuxt3",
   "repository": "conejerock/nuxt-flags",
   "compatibility": {
